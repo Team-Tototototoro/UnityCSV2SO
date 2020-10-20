@@ -22,3 +22,11 @@ Scriptable Objects can be passed around easily in Editor. The only real downfall
     * No, because by using build tags (*IF UNITY_EDITOR* and the like) all of this csv reading stuff is eliminated from the final build. All you need to do is make the data up-to-date before building.
 2. *Can I use this without Odin Inspector?*
     * Yes, but you will need to write your own custom inspector using built-in Unity. I couldn't be bothered to do that, and honestly, after Odin cut my tooling times in 10, neither should you. Just get it, it goes on sale often.
+
+## Credits
+Sheehan Ahmed, Kevin Lin, Bethany Lai, Daniel Ochoa, Carys Gooi - USC IMGD students
+
+## License
+This has been made public under the MIT license.
+Feel free to use this code in your own projects. Credit is appreciated but not necessary.
+Please **DO NOT** try to sell this asset, or redistribute elsewhere as your own work.
