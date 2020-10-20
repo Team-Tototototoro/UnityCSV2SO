@@ -1,0 +1,2 @@
+,MaxHealth,MoveSpeed,CrouchMoveSpeed,SlideMoveSpeed,WallRunStartSpeed,WallRunEndSpeed,WallRunTime,WallRunJump,WallClimbMultiplier,JumpSpeed
+Player,100,7,2,9,5.5,5.5,4,11,4,15
